@@ -13,8 +13,8 @@
 
 #
 ```diff
-👤 >> 14 years old, romanian developper.
-🗣️ >> bypassed.owo@gmail.com
+👤 >> 16 years old, romanian developper.
+🗣️ >> bossulskeet@proton.me
 🐺 >> Learn java, python and other
 ```
 #
